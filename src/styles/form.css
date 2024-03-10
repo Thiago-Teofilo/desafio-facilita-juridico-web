@@ -1,0 +1,16 @@
+.form div {
+  margin: 1.2rem;
+}
+
+.form div input {
+  margin-top: 0.2rem;
+}
+
+.form {
+  width: max-content;
+  margin: auto;
+}
+
+.form button {
+  margin: auto;
+}
