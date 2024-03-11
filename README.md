@@ -5,7 +5,7 @@ Este repositório contém a API para o Desafio Facilita Jurídico. A API é resp
 ## Configuração
 
 1. **Defina a URL da API**:
-   - Antes de iniciar o projeto, certifique-se de configurar a URL da API no arquivo `.env`. Substitua `REACT_APP_API_URL` pela URL correta da API: [https://github.com/Thiago-Teofilo/desafio-facilita-juridico-api].
+   - Antes de iniciar o projeto, crie o arquivo `.env` na raiz do projeto e certifique-se de configurar a URL da API no arquivo `.env`. Substitua `REACT_APP_API_URL` pela URL correta da API: [https://github.com/Thiago-Teofilo/desafio-facilita-juridico-api].
 
 2. **Instalação**:
    - Execute o seguinte comando para instalar as dependências do projeto:
